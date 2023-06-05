@@ -1,6 +1,6 @@
 # CO_Prediction
 
-This repository contains a linear regression model made with Python (Python Version 3.10.11) on a Interactive Python Notebook from google colab. The algorithms are implemented using tensorflow v2 and default function definitions provided by [Tensorflow Core](https://www.tensorflow.org/tutorials/estimator/linear?hl=es-419#base_feature_columns).
+This repository contains a linear regression model made with Python (Python Version 3.10.11) using Interactive Python Notebook from google colab. The algorithms are implemented using tensorflow v2 and default function definitions provided by [Tensorflow Core](https://www.tensorflow.org/tutorials/estimator/linear?hl=es-419#base_feature_columns).
 
 - [Implementation](src/bayesian_linear_regression.ipynb)
   
